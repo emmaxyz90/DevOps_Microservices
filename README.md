@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Cloud DevOps ND - C4- Microservices at Scale using AWS & Kubernetes - Supporting Material and Project Starter
 
 This repository is associated with Cloud DevOps ND - Course 04 - Microservices at Scale using AWS & Kubernetes. In here, you'll find:
@@ -172,4 +171,4 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
->>>>>>> 5dfb53b (Modifying and adding project files for commit)
+
